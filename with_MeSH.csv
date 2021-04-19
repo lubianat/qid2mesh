@@ -1,0 +1,97 @@
+,original name,label,wikidata_id,disease,MeSH,diseaseLabel
+0,AGERELATEDOSTEOPOROSIS,age-related osteoporosis,Q105836316,Q105836316,,age-related osteoporosis
+1,AmyotrophicLateralSclerosis,amyotrophic lateral sclerosis,Q206901,Q206901,D000690,amyotrophic lateral sclerosis
+2,Anemia,anemia,Q5445,Q5445,D000740,anemia
+3,ANEURYSM,aneurysm,Q189389,Q189389,D000783,aneurysm
+4,ANKYLOSINGSPONDYLARTHRITIDES,ankylosing spondylitis,Q52849,Q52849,D013167,ankylosing spondylitis
+5,ANTIPHOSPHOLIPIDANTIBODYSYNDROME,antiphospholipid syndrome,Q582207,Q582207,D016736,antiphospholipid syndrome
+6,Appendicitis,appendicitis,Q121041,Q121041,D001064,appendicitis
+7,ARTHRITIS,arthritis,Q170990,Q170990,D001168,arthritis
+8,ASEPTICNECROSISOFBONE,osteonecrosis,Q503629,Q503629,D010020,osteonecrosis
+9,ASTHMA,asthma,Q35869,Q35869,D001249,asthma
+10,Atherosclerosis,atherosclerosis,Q12252367,Q12252367,D050197,atherosclerosis
+11,AxialSpondyloarthropathy,Axial spondyloarthritis,Q28867094,Q28867094,,Axial spondyloarthritis
+12,BarrettsEsophagus,Barrett's esophagus,Q808892,Q808892,D001471,Barrett's esophagus
+13,BeckerMuscularDystrophy,Becker muscular dystrophy,Q2484592,Q2484592,,Becker muscular dystrophy
+14,BEHCETSYNDROME,Behçet's disease,Q911427,Q911427,D001528,Behçet's disease
+15,Bronchiolitis,bronchiolitis,Q424227,Q424227,D001988,bronchiolitis
+16,Calpain3,autosomal recessive limb-girdle muscular dystrophy type 2A,Q17177467,Q17177467,,autosomal recessive limb-girdle muscular dystrophy type 2A
+17,CANCER,cancer,Q12078,Q12078,,cancer
+18,CAPS,catastrophic antiphospholipid syndrome,Q5051580,Q5051580,,catastrophic antiphospholipid syndrome
+19,CARDIAC,heart disease,Q190805,Q190805,D006331,heart disease
+20,Cardiomyopathy,cardiomyopathy,Q847583,Q847583,D009202,cardiomyopathy
+21,COPD,chronic obstructive pulmonary disease,Q199804,Q199804,D029424,chronic obstructive pulmonary disease
+22,CoronaryArteryDisease,coronary artery disease,Q844935,Q844935,D003324,coronary artery disease
+23,CoronaryHeartDisease,coronary artery disease,Q844935,Q844935,D003324,coronary artery disease
+24,CROHNSDISEASE,Crohn's disease,Q1472,Q1472,D003424,Crohn's disease
+25,CysticFibrosis,cystic fibrosis,Q178194,Q178194,D003550,cystic fibrosis
+26,Cystitis,cystitis,Q246084,Q246084,D003556,cystitis
+27,DERMATITIS,dermatitis,Q229256,Q229256,D003872,dermatitis
+28,Dermatitis,dermatitis,Q229256,Q229256,D003872,dermatitis
+29,DuchenneMuscularDystrophy,Duchenne muscular dystrophy,Q1648484,Q1648484,D020388,Duchenne muscular dystrophy
+30,DysferlinLGMD2B,autosomal recessive limb-girdle muscular dystrophy type 2B,Q27677697,Q27677697,,autosomal recessive limb-girdle muscular dystrophy type 2B
+31,EmeryDreifussMuscularDystrophy,Emery-Dreifuss muscular dystrophy,Q1335642,Q1335642,D020389,Emery-Dreifuss muscular dystrophy
+32,Endocarditis,endocarditis,Q82504,Q82504,D004696,endocarditis
+33,Endometriosis,endometriosis,Q205764,Q205764,D004715,endometriosis
+34,Endometritis,endometritis,Q1340774,Q1340774,D004716,endometritis
+35,FascioscapulohumeralMuscularDystrophy,Fascioscapulohumeral Muscular Dystrophy,Q105836372,Q105836372,,Fascioscapulohumeral Muscular Dystrophy
+36,FIBROMYALGIA,fibromyalgia,Q540571,Q540571,D005356,fibromyalgia
+37,FKRP,qualitative or quantitative defects of FKRP,Q55785982,Q55785982,,qualitative or quantitative defects of FKRP
+38,Gastritis,gastritis,Q183130,Q183130,D005756,gastritis
+39,GRANULOMATOSISWITHPOLYANGIITIS,granulomatosis with polyangiitis,Q1161568,Q1161568,D014890,granulomatosis with polyangiitis
+40,GravesDisease,toxic diffuse goiter,Q16483,Q16483,,toxic diffuse goiter
+41,GuillainBarreSyndrome,Guillain–Barré Syndrome,Q205214,Q205214,D020275,Guillain–Barré Syndrome
+42,HEARTFAILURE,heart failure,Q181754,Q181754,D006333,heart failure
+43,HENOCHSCHONLEINPURPURA,Henoch-Schoenlein purpura,Q1035319,Q1035319,D011695,Henoch-Schoenlein purpura
+44,Hepatitis,hepatitis,Q131742,Q131742,D006505,hepatitis
+45,HereditaryAutoinflammatoryDisease,Hereditary autoinflammatory syndrome,Q65214459,Q65214459,,Hereditary autoinflammatory syndrome
+46,Hyperlipidemia,hyperlipidemia,Q1079120,Q1079120,D006949,hyperlipidemia
+47,HYPERTENSION,arterial hypertension,Q41861,Q41861,D006973,arterial hypertension
+48,HYPERTHENSION,arterial hypertension,Q41861,Q41861,D006973,arterial hypertension
+49,INFECTIOUSDISEASE,Infectiousdiseases of the nervous system.,Q45782461,Q45782461,,Infectiousdiseases of the nervous system.
+50,IPF,idiopathic interstitial pneumonia,Q1790424,Q1790424,D054988,idiopathic interstitial pneumonia
+51,JuvenileDermatomyositis,childhood type dermatomyositis,Q6318950,Q6318950,,childhood type dermatomyositis
+52,KAWASAKIDISEASE,Kawasaki disease,Q265936,Q265936,D009080,Kawasaki disease
+53,Keratitis,keratitis,Q757838,Q757838,D007634,keratitis
+54,KIDNEYDISEASES,kidney disease,Q1054718,Q1054718,D007674,kidney disease
+55,LUNGDISEASE,lung disease,Q3392853,Q3392853,D008171,lung disease
+56,LUNGDISEASES,lung disease,Q3392853,Q3392853,D008171,lung disease
+57,LYMEDISEASE,Lyme disease,Q201989,Q201989,D008193,Lyme disease
+58,MultipleSclerosis,Multiplesclerosis,Q8277,Q8277,D009103,multiple sclerosis
+59,Myopathy,muscular disease,Q692536,Q692536,D009135,muscular disease
+60,OBESITY,obesity,Q12174,Q12174,D009765,obesity
+61,OpticNeuritis,optic neuritis,Q972514,Q972514,D009902,optic neuritis
+62,Osteomyelitis,osteomyelitis,Q938983,Q938983,D010019,osteomyelitis
+63,Otitis,otitis,Q480700,Q480700,D010031,otitis
+64,PAGETDISEASE,mammary Paget's disease,Q1572384,Q1572384,D010144,mammary Paget's disease
+65,Pancreatitis,pancreatitis,Q1527888,Q1527888,D010195,pancreatitis
+66,PFAPA,"Periodic fever, aphthous stomatitis, pharyngitis and adenitis",Q2044034,Q2044034,,"Periodic fever, aphthous stomatitis, pharyngitis and adenitis"
+67,POLYCYTHEMIA,polycythemia,Q933716,Q933716,D011086,polycythemia
+68,Preeclampsia,pre-eclampsia,Q61335,Q61335,D011225,pre-eclampsia
+69,PSORIASIS,psoriasis,Q179945,Q179945,D011565,psoriasis
+70,PulmonaryArterialHypertension,arterial pulmonary hypertension,Q16070735,Q16070735,D000081029,arterial pulmonary hypertension
+71,PulmonaryFibrosis,pulmonary fibrosis,Q32446,Q32446,D011658,pulmonary fibrosis
+72,Purpura,purpura,Q935293,Q935293,D011693,purpura
+73,Pyomyositis,pyomyositis,Q1923955,Q1923955,D052880,pyomyositis
+74,RHINITIS,rhinitis,Q114085,Q114085,D012220,rhinitis
+75,Rhinitis,rhinitis,Q114085,Q114085,D012220,rhinitis
+76,SARCOIDOSIS,sarcoidosis,Q193894,Q193894,D012507,sarcoidosis
+77,SCLERODERMA,systemic scleroderma,Q5340515,Q5340515,D012595,systemic scleroderma
+78,SystemicSclerosis,systemic scleroderma,Q5340515,Q5340515,D012595,systemic scleroderma
+79,Sinusitis,sinusitis,Q183344,Q183344,D012852,sinusitis
+80,SJOGRENSSYNDROME,Sjögren's syndrome,Q335555,Q335555,D012859,Sjögren's syndrome
+81,SpasticParaplegia,hereditary spastic paraplegia,Q657516,Q657516,D015419,hereditary spastic paraplegia
+82,Stomatitis,stomatitis,Q911386,Q911386,D013280,stomatitis
+83,STROKE,stroke,Q12202,Q12202,D020521,stroke
+84,SuppurativeArthritis,septic arthritis,Q924421,Q924421,D001170,septic arthritis
+85,SYSTEMICLUPUSERYTHEMATOSUS,systemic lupus erythematosus,Q1485,Q1485,D008180,systemic lupus erythematosus
+86,T1D,type-1 diabetes,Q124407,Q124407,D003922,type-1 diabetes
+87,T2D,type 2 diabetes,Q3025883,Q3025883,D003924,type 2 diabetes
+88,Tendinitis,tendinitis,Q499574,Q499574,,tendinitis
+89,Thyroiditis,thyroiditis,Q11835644,Q11835644,D013966,thyroiditis
+90,ULCERATIVECOLITIS,ulcerative colitis,Q1477,Q1477,D003093,ulcerative colitis
+91,Uveitis,uveitis,Q280027,Q280027,D014605,uveitis
+92,Adenomyosis,adenomyosis,Q2012569,Q2012569,D062788,adenomyosis
+93,UterineFibroid,uterine fibroid,Q556281,Q556281,,uterine fibroid
+94,NeuramuscularPain,neuromuscular disease,Q2246789,Q2246789,D009468,neuromuscular disease
+95,BenignProstaticHyperplasia,prostatic hypertrophy,Q506659,Q506659,D011470,prostatic hypertrophy
